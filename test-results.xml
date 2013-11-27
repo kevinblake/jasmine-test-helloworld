@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-results name="Javascript Specs">
+  <test-suite name="PhantomJS 1.9.2 (Windows 7)" type="unit" id="0" hostname="jpb01848" executed="true" result="Success" success="true" failures="0" time="0.007">
+    <results/>
+    <test-suite name="array should...">
+      <results>
+        <test-case name="return the array index of query" time="0.007" description="array should___" executed="true" result="Success"/>
+      </results>
+    </test-suite>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err/>
+  </test-suite>
+  <test-suite name="Chrome 31.0.1650 (Windows 7)" type="unit" id="0" hostname="jpb01848" executed="true" result="Success" success="true" failures="0" time="0.016">
+    <results/>
+    <test-suite name="array should...">
+      <results>
+        <test-case name="return the array index of query" time="0.016" description="array should___" executed="true" result="Success"/>
+      </results>
+    </test-suite>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err/>
+  </test-suite>
+  <test-suite name="IE 11.0.0 (Windows 7)" type="unit" id="0" hostname="jpb01848" executed="true" result="Success" success="true" failures="0" time="0.152">
+    <results/>
+    <test-suite name="array should...">
+      <results>
+        <test-case name="return the array index of query" time="0.152" description="array should___" executed="true" result="Success"/>
+      </results>
+    </test-suite>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err/>
+  </test-suite>
+  <test-suite name="Firefox 25.0.0 (Windows 7)" type="unit" id="0" hostname="jpb01848" executed="true" result="Success" success="true" failures="0" time="0.003">
+    <results/>
+    <test-suite name="array should...">
+      <results>
+        <test-case name="return the array index of query" time="0.003" description="array should___" executed="true" result="Success"/>
+      </results>
+    </test-suite>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err/>
+  </test-suite>
+</test-results>
